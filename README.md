@@ -1,6 +1,8 @@
 # Hi there ✨
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Markosuuu)](https://github.com/Markosuuu/github-readme-stats)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Markosuuu&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+</p>  
 
 <!--
 **Markosuuu/Markosuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
