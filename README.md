@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/Markosuuu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markosuuu&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Markosuuu&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Markosuuu&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
 
