@@ -6,8 +6,8 @@
 
 <p align="center">
 <a href="https://github.com/Markosuuu">
-  <img height="35em" src="https://github-readme-stats.vercel.app/api?username=Markosuuu&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
-  <img height="35em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Markosuuu&layout=compact&langs_count=8&theme=radical"/>
+  <img height="350em" src="https://github-readme-stats.vercel.app/api?username=Markosuuu&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+  <img height="350em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Markosuuu&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
 
