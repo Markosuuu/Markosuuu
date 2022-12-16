@@ -2,6 +2,12 @@
 
 <img src="./assets/hornet.gif" width="200">
 
+### 🌱 Languages&Tool I use:
+![Python](https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white)
+![VSCode](https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visual%20studio%20code)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -10,7 +16,6 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Markosuuu&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
-
 
 
 ### 🤝🏻 &nbsp;Connect with Me
