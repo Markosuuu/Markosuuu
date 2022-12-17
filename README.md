@@ -31,5 +31,6 @@
 <a href="https://linkedin.com/in/marcos-d%C3%ADaz-73b315250"><img src="https://img.shields.io/badge/-Marcos%20Díaz-0077B5?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ma.nahuel.d@gmail.com"><img src="https://img.shields.io/badge/-ma.nahuel.d@gmail.com-D14836?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/0_Mark0s"><img src="https://img.shields.io/badge/-Markos D.-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a heref="https://discord.com/"><img src="https://img.shields.io/badge/Discord-424549.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 <img src="./assets/the_knight2.gif" width="100">
