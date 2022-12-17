@@ -2,11 +2,17 @@
 
 <img src="./assets/hornet.gif" width="200">
 
-### 🌱 Languages&Tool I use:
-![Python](https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white)
-![VSCode](https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visual%20studio%20code)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
+### 🖊 Languages and Tools:
+<div style="display: flex">
+  
+<img alt="Badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
+<img alt="Badge" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Badge" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Badge" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Badge" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Badge" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  
+</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -20,8 +26,8 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p>
-<a href="https://linkedin.com/in/marcos-d%C3%ADaz-73b315250"><img src="https://img.shields.io/badge/-Marcos%20Díaz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ma.nahuel.d@gmail.com"><img src="https://img.shields.io/badge/-ma.nahuel.d@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/0_Mark0s"><img src="https://img.shields.io/badge/-Markos D.-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/marcos-d%C3%ADaz-73b315250"><img src="https://img.shields.io/badge/-Marcos%20Díaz-0077B5?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ma.nahuel.d@gmail.com"><img src="https://img.shields.io/badge/-ma.nahuel.d@gmail.com-D14836?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/0_Mark0s"><img src="https://img.shields.io/badge/-Markos D.-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
