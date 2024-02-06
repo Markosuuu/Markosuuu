@@ -4,7 +4,6 @@
 Welcome to my profile!✨ I am a student from Argentina🧉. Currently I started at UNQ in computer science and i'm looking to learn more about Frontend.
 
 - 🌱 I’m currently learning Frontend.
-- 💬 Ask me anything about D&D 🎲
 
 <img src="./assets/hornet.gif" width="150">
 
@@ -40,5 +39,3 @@ Welcome to my profile!✨ I am a student from Argentina🧉. Currently I started
 <img src="https://img.shields.io/badge/Discord-424549.svg?&style=for-the-badge&logo=discord&logoColor=white"> Markosuuu#3296
 
 <img src="./assets/the_knight2.gif" width="100">
-
-> _El psy congroo_
